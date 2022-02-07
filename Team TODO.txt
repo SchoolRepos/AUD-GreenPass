@@ -1,0 +1,5 @@
+Andreas: Sequenzdiagramm / Pflichtenheft
+Elias: Sequenzdiagramm / Pflichtenheft
+Tobias: Architekturdiagramm / Pflichtenheft
+Klaus: Pitch-Deck
+Sarah: Analysedokument
