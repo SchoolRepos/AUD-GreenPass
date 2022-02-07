@@ -1,5 +1,5 @@
-Andreas: Sequenzdiagramm / Pflichtenheft
-Elias: Sequenzdiagramm / Pflichtenheft
-Tobias: Architekturdiagramm / Pflichtenheft
-Klaus: Pitch-Deck
-Sarah: Analysedokument
+Andreas: Analysedokument (Schwachstellen) / Sequenzdiagramm / Pflichtenheft
+Elias: Analysedokument (QR-Code) / Sequenzdiagramm / Pflichtenheft
+Tobias: Analysedokument (Schwachstellen) / Architekturdiagramm / Pflichtenheft
+Klaus: Analysedokument (QR-Code) / Pitch-Deck
+Sarah: Analysedokument (Funktionsweise des aktuellen Systems) / Pflichtenheft
