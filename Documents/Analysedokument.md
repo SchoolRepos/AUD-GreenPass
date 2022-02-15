@@ -11,6 +11,9 @@ Anforderungen:
 
 ## Funktionsweise des aktuellen Systems
 
+![image](https://user-images.githubusercontent.com/44428493/154077280-325734ce-d0c9-4433-8123-3ad4eedf71cd.png)
+
+
 ## QR-Code
 
 #### Schritt 1: QR-Code Lesen
