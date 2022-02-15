@@ -55,6 +55,11 @@ Health payload      : {
 }
 ```
 
+#### Schritt 3: 
+```cat fakezert.txt | python3 hc1_sign.py > finishedFake.txt```
+
+#### Schritt 4:
+QR-Code erstellen - ![image](https://user-images.githubusercontent.com/44428493/154083705-ba1d03b6-e0bf-41b6-ab9a-eb515303d24f.png)
 
 
 ## Schwachstellen
