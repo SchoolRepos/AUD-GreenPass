@@ -67,8 +67,13 @@ Health payload      : {
 ```cat fakezert.txt | python3 hc1_sign.py > finishedFake.txt```
 
 #### Schritt 4:
-QR-Code erstellen - ![image](https://user-images.githubusercontent.com/44428493/154083705-ba1d03b6-e0bf-41b6-ab9a-eb515303d24f.png)
+QR-Code erstellen -
 
+##### Example 1 - Stim Turm
+![image](https://user-images.githubusercontent.com/44428493/154083705-ba1d03b6-e0bf-41b6-ab9a-eb515303d24f.png)
+
+##### Example 2 - Lambrechtn Siemens
+![image](https://user-images.githubusercontent.com/44428493/154086682-70084c44-fc3d-4481-a7b6-7cefd58af2a3.png)
 
 ## Schwachstellen
 
