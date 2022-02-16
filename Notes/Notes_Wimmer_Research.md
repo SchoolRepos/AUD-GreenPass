@@ -13,4 +13,6 @@ Kaum jemand kontrolliert auch den Ausweis, meistens wird nur das Zertifikat übe
 
 Nachdem Mitte Juli Studenten der FH Hagenberg festgestellt hatten, dass die Grüner Pass App die tatsächliche Gültigkeit des QR-Codes nicht überprüft, entbrannte eine Diskussion über die Fälschungssicherheit der Impfzertifikate. Das BRZ reagierte auf diesen Mangel Mitte August mit einem Update. Seither soll beim Upload die automatische Validierung der elektronischen Signatur erfolgen. In der App wird allen Usern nun auch direkt angezeigt, ob Ihre Zertifikate für Eintritte bzw. Nachtgastronomie gültig sind. Allerdings wird nicht überprüft, ob jemand tatsächlich sein eigenes Impfzertifikat verwendet.
 
-[https://www.liwest.at/blog/sicher-surfen/wie-sicher-der-gruene-pass](https://www.liwest.at/blog/sicher-surfen/wie-sicher-der-gruene-pass)
+[https://www.liwest.at/blog/sicher-surfen/wie-sicher-der-gruene-pass](https://www.liwest.at/blog/sicher-surfen/wie-sicher-der-gruene-pass)   
+
+Die aktuelle GreenCheck App funktioniert nicht offline.
