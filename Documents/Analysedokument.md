@@ -20,18 +20,18 @@ Der Grüne Pass besteht einerseits aus den bereits bestehenden Nachweisen und an
 Die Daten, die für die Erstellung der oben genannten Zertifikate notwendig sind, werden als „minimal Dataset“ bezeichnet. Neben einem EU-konformen QR-Code sind im Testzertifikat folgende Daten enthalten:
 
 #### Inhalt Testzertifikat
-•         Nachname(n) und Vorname(n) der getesteten Person,
-•         Geburtsdatum der getesteten Person,
-•         Zielkrankheit oder -erreger, auf die oder den die Person getestet wurde, ausschließlich lautend auf „COVID-19“,
-•         Art des Tests,
-•         Bezeichnung des Tests,
-•         Bezeichnung des Herstellers des Tests,
-•         Datum und Uhrzeit der Probenahme,
-•         Testergebnis (nachgewiesen/nicht nachgewiesen)*,
-•         Bezeichnung des Testzentrums oder der testenden Einrichtung,
-•         Bezeichnung des Staates, in dem der Test durchgeführt wurde,
-•         Bezeichnung des Ausstellers des Testzertifikats,
-•         eindeutige Kennung des Testzertifikats.
+- Nachname(n) und Vorname(n) der getesteten Person,
+- Geburtsdatum der getesteten Person,
+- Zielkrankheit oder -erreger, auf die oder den die Person getestet wurde, ausschließlich lautend auf „COVID-19“,
+- Art des Tests,
+- Bezeichnung des Tests,
+- Bezeichnung des Herstellers des Tests,
+- Datum und Uhrzeit der Probenahme,
+- Testergebnis (nachgewiesen/nicht nachgewiesen)*,
+- Bezeichnung des Testzentrums oder der testenden Einrichtung,
+- Bezeichnung des Staates, in dem der Test durchgeführt wurde,
+- Bezeichnung des Ausstellers des Testzertifikats,
+- eindeutige Kennung des Testzertifikats.
 
 #### Inhalt Genesungszertifikat
 •         Nachname(n) und Vorname(n) der getesteten Person,
