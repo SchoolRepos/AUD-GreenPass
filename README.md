@@ -11,7 +11,7 @@ This repository is part of a school group work on an in depth analysis of the ap
 * `Documents` - Consists of needed documents necessary for this school project
   * [`Analysedokument`](Documents/Analysedokument.md) - Analysis of the apps mentioned above
   * [`Pflichtenheft`](Documents/Pflichtenheft.md) - Possible solution to create a new / better system
-* [`Angabe.pdf`](Angabe.pdf) - Specification and instructions for this AUD assignment
-* [`Tasks.md`](Tasks.md) - List for current tasks of the team
+* [`Angabe`](Angabe.pdf) - Specification and instructions for this AUD assignment
+* [`Tasks`](Tasks.md) - List for current tasks of the team
 
 **Disclaimer: Any resources found within this repository are created for educational purposes only and therefore shall not be used to take advantage of any given exploits / bugs mentioned. We assume no liability for any information given.**
