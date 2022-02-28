@@ -34,34 +34,34 @@ Die Daten, die für die Erstellung der oben genannten Zertifikate notwendig sind
 - eindeutige Kennung des Testzertifikats.
 
 #### Inhalt Genesungszertifikat
-•         Nachname(n) und Vorname(n) der getesteten Person,
-•         Geburtsdatum der getesteten Person,
-•         Krankheit oder Erreger, von der oder dem die Person genesen ist, ausschließlich lautend auf „COVID-19“,
-•         Datum des ersten positiven molekularbiologischen Testergebnisses,
-•         Bezeichnung des Staates, in dem der Test durchgeführt wurde,
-•         Bezeichnung des Ausstellers des Genesungszertifikats,
-•         Gültigkeitsbeginn des Genesungszertifikats,
-•         Gültigkeitsende des Genesungszertifikats,
-•         eindeutige Kennung des Genesungszertifikats.
+- Nachname(n) und Vorname(n) der getesteten Person,
+- Geburtsdatum der getesteten Person,
+- Krankheit oder Erreger, von der oder dem die Person genesen ist, ausschließlich lautend auf „COVID-19“,
+- Datum des ersten positiven molekularbiologischen Testergebnisses,
+- Bezeichnung des Staates, in dem der Test durchgeführt wurde,
+- Bezeichnung des Ausstellers des Genesungszertifikats,
+- Gültigkeitsbeginn des Genesungszertifikats,
+- Gültigkeitsende des Genesungszertifikats,
+- eindeutige Kennung des Genesungszertifikats.
 
 #### Inhalt Impfzertifikat
-•         Nachname(n) und Vorname(n) der geimpften Person in dieser Reihenfolge,
-•         Geburtsdatum der geimpften Person,
-•         Krankheit oder Erreger, gegen die oder den die Person geimpft ist, ausschließlich lautend auf „COVID-19“,
-•         Impfstoff/Prophylaxe,
-•         Impfarzneimittel (Bezeichnung des Impfstoffs gemäß Zulassung),
-•         Zulassungsinhaber oder Hersteller des Impfstoffs,
-•         Nummer der Impfdosis und die Gesamtanzahl der Impfdosen einer Impfserie,
-−          Das Impfzertifikat einer ersten Dosis mit einem COVID-19 Impfstoff, bei dem zwei Dosen vorgesehen sind (BioNTech/Pfizer, AstraZeneca, Moderna), enthält die Information „1 von 2“
-−          Das Impfzertifikat einer zweiten Dosis mit einem COVID-19 Impfstoff, bei dem zwei Dosen vorgesehen sind (auch bei mehrmaligen Impfstichen im Falle von „non respondern“), enthält die Information „2 von 2“
-−          Das Impfzertifikat einer Dosis mit einem COVID-19 Impfstoff, bei dem nur eine Dosis vorgesehen ist (Janssen), enthält die Information „1 von 1“
-−          Das Impfzertifikat einer Dosis nach einer molekularbiologisch bestätigten Infektion mit SARS-CoV-2 enthält die Information „1 von 1“
-−          Das Impfzertifikat einer weiteren Impfung enthält die Information „3 von 3“ bzw. „2 von 2“, solange der Mindestabstand von 90 Tagen zur ersten Impfserie eingehalten wurde
-−          Impfzertifikate einer weiteren Impfung (1. Dosis Janssen oder eine Dosis nach einer molekularbiologisch bestätigten Infektion mit SARS-CoV-2) enthält die Information „3 von 1“ bzw. „2 von 1“, solange der Mindestabstand von 90 Tagen zur ersten Impfserie eingehalten wurden
-•         Datum der Impfung (für jede erhaltene Dosis nach empfohlenem Impfschema),
-•         Bezeichnung des Staates, in dem die Impfung durchgeführt wurde,
-•         Bezeichnung des Ausstellers des Impfzertifikats,
-•         eindeutige Kennung des Impfzertifikats.
+- Nachname(n) und Vorname(n) der geimpften Person in dieser Reihenfolge,
+- Geburtsdatum der geimpften Person,
+- Krankheit oder Erreger, gegen die oder den die Person geimpft ist, ausschließlich lautend auf „COVID-19“,
+- Impfstoff/Prophylaxe,
+- Impfarzneimittel (Bezeichnung des Impfstoffs gemäß Zulassung),
+- Zulassungsinhaber oder Hersteller des Impfstoffs,
+-  Nummer der Impfdosis und die Gesamtanzahl der Impfdosen einer Impfserie,
+   −          Das Impfzertifikat einer ersten Dosis mit einem COVID-19 Impfstoff, bei dem zwei Dosen vorgesehen sind (BioNTech/Pfizer, AstraZeneca, Moderna), enthält die Information „1 von 2“
+   −          Das Impfzertifikat einer zweiten Dosis mit einem COVID-19 Impfstoff, bei dem zwei Dosen vorgesehen sind (auch bei mehrmaligen Impfstichen im Falle von „non respondern“), enthält die Information „2 von 2“
+   −          Das Impfzertifikat einer Dosis mit einem COVID-19 Impfstoff, bei dem nur eine Dosis vorgesehen ist (Janssen), enthält die Information „1 von 1“
+   −          Das Impfzertifikat einer Dosis nach einer molekularbiologisch bestätigten Infektion mit SARS-CoV-2 enthält die Information „1 von 1“
+   −          Das Impfzertifikat einer weiteren Impfung enthält die Information „3 von 3“ bzw. „2 von 2“, solange der Mindestabstand von 90 Tagen zur ersten Impfserie eingehalten wurde
+   −          Impfzertifikate einer weiteren Impfung (1. Dosis Janssen oder eine Dosis nach einer molekularbiologisch bestätigten Infektion mit SARS-CoV-2) enthält die Information „3 von 1“ bzw. „2 von 1“, solange der Mindestabstand von 90 Tagen zur ersten Impfserie eingehalten wurden
+- Datum der Impfung (für jede erhaltene Dosis nach empfohlenem Impfschema),
+- Bezeichnung des Staates, in dem die Impfung durchgeführt wurde,
+- Bezeichnung des Ausstellers des Impfzertifikats,
+- eindeutige Kennung des Impfzertifikats.
 
 
 ## QR-Code
