@@ -16,3 +16,4 @@ Nachdem Mitte Juli Studenten der FH Hagenberg festgestellt hatten, dass die Grü
 [https://www.liwest.at/blog/sicher-surfen/wie-sicher-der-gruene-pass](https://www.liwest.at/blog/sicher-surfen/wie-sicher-der-gruene-pass)   
 
 Die aktuelle GreenCheck App funktioniert nicht offline.
+Die grüner Pass App funktioniert auch nur teilweise offline.
