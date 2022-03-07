@@ -81,6 +81,7 @@ HC1:NCFOXN%TS3DHDWKJ/8 1K10K.0ICID:D4WGF%CM4Z4OYC5DOX-INXS6G5ZMIN9HNO4*J8OX4W$C2
 ```
 
 ##### Dekodierte Datei:
+###### Impfzertifikat
 ```
 Signature           : gNhlvKFJfEE= @ ES256
 Experation time     : 1670972400
@@ -111,6 +112,34 @@ Health payload      : {
     "ver": "1.3.0"
 }
 ```
+###### Genesenen Zertifikat
+```
+Signature           : gNhlvKFJfEE= @ ES256
+Experation time     : 1661119200
+Issued At           : 1646526441
+Issuer              : AT
+Health payload      : {
+    "dob": "2002-12-21",
+    "nam": {
+        "fn": "SCHEIBOECK",
+        "fnt": "SCHEIBOECK",
+        "gn": "KLAUS MAXIMILIAN STEFAN",
+        "gnt": "KLAUS<MAXIMILIAN<STEFAN"
+    },
+    "r": [
+        {
+            "ci": "URN:UVCI:01:AT:CASBQXESWIU1JYWBOICWW16XA#U",
+            "co": "AT",
+            "df": "2022-03-05",
+            "du": "2022-08-21",
+            "fr": "2022-02-22",
+            "is": "Ministry of Health, Austria",
+            "tg": "840539006"
+        }
+    ],
+    "ver": "1.3.0"
+}
+```
 
 #### Schritt 3: 
 > Es kann nur die JSON-Payload von oben signiert werden!
@@ -119,11 +148,15 @@ Health payload      : {
 #### Schritt 4:
 QR-Code erstellen -
 
+##### Impfzertifikate:
+
 ##### Example 1 - Stim Turm
 ![image](https://user-images.githubusercontent.com/44428493/154083705-ba1d03b6-e0bf-41b6-ab9a-eb515303d24f.png)
 
 ##### Example 2 - Lambrechtn Siemens
 ![image](https://user-images.githubusercontent.com/44428493/154086682-70084c44-fc3d-4481-a7b6-7cefd58af2a3.png)
+
+##### Genesenen Zertifikate
 
 ## Schwachstellen
 
