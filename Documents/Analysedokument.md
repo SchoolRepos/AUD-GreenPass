@@ -170,3 +170,5 @@ Zertifikate und QR Codes können leicht gefälscht werden um so einen Geimpft od
 Eine Ausweis Kontrolle wäre insofern sinnvoll da sie zumindest feststellen kann ob eine Person ihr eigenes Zertifikat verwendet. Viele Personen werden sich nicht den Aufwand machen / fähig sein ein solches Zertifikat zu fälschen.
 
 GreenCheck App funktioniert aktuell nur mit aktiver Internetverbindung was eine flächendeckende Überprüfung weiter erschwert.
+
+Es ist desweiteren theoretisch möglich, über einen DNS-Server die Abfragen der GreenCheck App und der Grünenpass App umzuleiten, so dass die Zertifikate als gültig angezeigt werden.
