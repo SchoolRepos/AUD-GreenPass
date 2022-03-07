@@ -158,6 +158,9 @@ QR-Code erstellen -
 
 ##### Genesenen Zertifikate
 
+##### Example 1 - Schaxl Taxl
+![qrcode](https://user-images.githubusercontent.com/44428493/157009306-6210a4e0-f3f4-4175-aebc-01309f03df4c.png)
+
 ## Schwachstellen
 
 Personen müssen sich den Impfbescheid bzw. nach dem Freitesten den Genesungsbescheid selbst von der Geimeinde holen. Genesungsbescheid / Impfbescheid ist ein Zettel mit den generellen Informationen zur QR Code, der ausgedruckt wird. Die Mindest-Android Version der Grüner Pass app ist 7, alle anderen müssen ständig mit dem A4-Zettel herumrennen.
