@@ -163,7 +163,7 @@ QR-Code erstellen -
 
 ## Schwachstellen
 
-Personen müssen sich den Impfbescheid bzw. nach dem Freitesten den Genesungsbescheid selbst von der Geimeinde holen. Genesungsbescheid / Impfbescheid ist ein Zettel mit den generellen Informationen zur QR Code, der ausgedruckt wird. Die Mindest-Android Version der Grüner Pass app ist 7, alle anderen müssen ständig mit dem A4-Zettel herumrennen.
+Personen müssen sich den Impfbescheid bzw. nach dem Freitesten den Genesungsbescheid selbst von der Geimeinde oder von [Gesundheit.gv.at](https://Gesundheit.gv.at) holen. Genesungsbescheid / Impfbescheid ist ein Zettel mit den generellen Informationen zur QR Code, der ausgedruckt wird. Die Mindest-Android Version der Grüner Pass app ist 7, alle anderen müssen ständig mit dem A4-Zettel herumrennen.
 
 Zertifikate und QR Codes können leicht gefälscht werden um so einen Geimpft oder Genesen Status vorzutäuschen. Generell werden diese Zertifikate nur sehr selten wirklich wie vorgesehen mit der GreenCheck App + Ausweis überprüft obwohl auch dadurch die Echtheit / ob das Zertifikat für einen selbst ausgestellt ist nicht zu 100% garantiert werden kann. 
 
