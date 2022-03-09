@@ -171,4 +171,7 @@ Eine Ausweis Kontrolle wäre insofern sinnvoll da sie zumindest feststellen kann
 
 GreenCheck App funktioniert aktuell nur mit aktiver Internetverbindung was eine flächendeckende Überprüfung weiter erschwert.
 
+### Schachstellen der GreenCheck App
 Es ist desweiteren theoretisch möglich, über einen DNS-Server die Abfragen der GreenCheck App und der Grünenpass App umzuleiten, so dass die Zertifikate als gültig angezeigt werden.
+
+![aud_dia2](https://user-images.githubusercontent.com/44428493/157420527-2fac890a-a0fc-4ace-ab86-0d05205a491f.png)
