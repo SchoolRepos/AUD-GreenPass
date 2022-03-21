@@ -1,0 +1,52 @@
+@startuml
+!theme reddress-lightred
+
+User -> GrünerPassApp: Scan Qr code
+GrünerPassApp -> GrünerPassApp: Add Certificate
+
+@enduml
+
+@startuml
+!theme reddress-lightred
+
+GrünerPassApp -> GreenCheckApp: Qr code
+GreenCheckApp -> Server: Certificate
+Server -> Server: Validate Certificate
+Server --> GreenCheckApp: Send Result
+GreenCheckApp -> GreenCheckApp: Show result
+
+@enduml
+
+@startuml
+!theme reddress-lightred
+
+actor User
+
+User -> GrünerPassApp: open
+GrünerPassApp -> SecurityGuyodaso: display certificate
+SecurityGuyodaso -> GreenCheckApp: scan certificate
+GreenCheckApp -> Server: send certificate
+Server --> Server: validate certificate
+Server --> GreenCheckApp: send result
+GreenCheckApp --> SecurityGuyodaso: show result
+SecurityGuyodaso -> User: ask for id
+User --> SecurityGuyodaso: show id
+SecurityGuyodaso --> SecurityGuyodaso: validate id
+
+@enduml
+
+@startuml
+!theme reddress-lightred
+
+User -> SecurityGuyodaso: show certificate
+SecurityGuyodaso --> SecurityGuyodaso: look at certificate
+SecurityGuyodaso --> SecurityGuyodaso: say "aha"
+SecurityGuyodaso -> User: request id
+User --> SecurityGuyodaso: show id
+SecurityGuyodaso --> SecurityGuyodaso: lookAtId
+SecurityGuyodaso --> SecurityGuyodaso: lookAtUser
+SecurityGuyodaso --> SecurityGuyodaso: lookAtId
+SecurityGuyodaso --> SecurityGuyodaso: lookAtUser
+SecurityGuyodaso -> User: let in
+
+@enduml
