@@ -1,0 +1,17 @@
+@startuml
+!theme reddress-lightred
+Actor User
+participant "Gemeinde / ELGA" as zertifikat
+participant "Grüner Pass" as pass
+
+User -> zertifikat: QR Code holen
+zertifikat -> User: QR Code ausstellen
+
+User -> pass: Laden des Zertifikatsin die App
+
+User -> Bar: I wü eine
+User <-> pass: Öffnet QR Code
+Bar -> User: Kontrolle des QR Codes mithilfe von GreenCheck
+Bar -> User: Kontrolle Ausweis
+Bar -> User: Gewährt Eintritt
+@enduml

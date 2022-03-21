@@ -79,8 +79,10 @@ HC1:NCFOXN%TS3DHDWKJ/8 1K10K.0ICID:D4WGF%CM4Z4OYC5DOX-INXS6G5ZMIN9HNO4*J8OX4W$C2
 ```
  cat code.txt | python3 hc1_verify.py -v -i -p -A > zert.txt
 ```
-
 ##### Dekodierte Datei:
+
+> **INFO:** Die Daten der payload können beliebig verändert werden, solange man den Datentypen (String/Int) nicht ändert. Man kann z.B. bei dem Geburtsdatum Freitext schreiben und dieser wird in der App korrekt dargestellt und nicht auf ein Datum geparsed. 
+
 ###### Impfzertifikat
 ```
 Signature           : gNhlvKFJfEE= @ ES256
@@ -167,11 +169,13 @@ Personen müssen sich den Impfbescheid bzw. nach dem Freitesten den Genesungsbes
 
 Zertifikate und QR Codes können leicht gefälscht werden um so einen Geimpft oder Genesen Status vorzutäuschen. Generell werden diese Zertifikate nur sehr selten wirklich wie vorgesehen mit der GreenCheck App + Ausweis überprüft obwohl auch dadurch die Echtheit / ob das Zertifikat für einen selbst ausgestellt ist nicht zu 100% garantiert werden kann. 
 
+Durch den oben erwähnten Fehlenden Syntaxcheck wird es stark vereinfacht ein Zertifikat zu fälschen. Man muss zwar beachten dass z.B. beim Datum das Parsen im Fehlerfall übersprungen wird um mit Ausländischen Zertifikaten kompatibel zu sein, jedoch sollte zumindest eine gewisse Überprüfung auf ungefähren Inhalt keine schwierigkeit darstellen.
+
 Eine Ausweis Kontrolle wäre insofern sinnvoll da sie zumindest feststellen kann ob eine Person ihr eigenes Zertifikat verwendet. Viele Personen werden sich nicht den Aufwand machen / fähig sein ein solches Zertifikat zu fälschen.
 
 GreenCheck App funktioniert aktuell nur mit aktiver Internetverbindung was eine flächendeckende Überprüfung weiter erschwert.
 
-### Schachstellen der GreenCheck App
+### Schwachstellen der GreenCheck App
 Es ist desweiteren theoretisch möglich, über einen DNS-Server die Abfragen der GreenCheck App und der Grünenpass App umzuleiten, so dass die Zertifikate als gültig angezeigt werden.
 
 ![aud_dia2](https://user-images.githubusercontent.com/44428493/157420527-2fac890a-a0fc-4ace-ab86-0d05205a491f.png)
