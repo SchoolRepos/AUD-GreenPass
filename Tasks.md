@@ -20,8 +20,8 @@
 
 ## Klaus: 
 
-- [ ] Analysedokument (QR-Code) -> Eventuell mehr Infos über Verifizierung der Codes
-- [ ] Pitch-Deck
+- [x] Analysedokument (QR-Code) -> Eventuell mehr Infos über Verifizierung der Codes
+- [ ] Pitch-Deck - wos is a Pitch-Deck?
 
 ## Sarah: 
 
