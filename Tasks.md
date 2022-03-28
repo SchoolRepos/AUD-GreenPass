@@ -15,7 +15,7 @@
 ## Tobias: 
 
 - [x] Analysedokument (Schwachstellen)
-- [ ] Architekturdiagramm
+- [x] Architekturdiagramm
 - [ ] Pflichtenheft
 
 ## Klaus: 
