@@ -17,6 +17,18 @@ Der Grüne Pass ist ein Überbegriff für den Nachweis einer Corona-Impfung, ein
 Jedes dieser Zertifikate ist mit einem EU-konformen QR-Code versehen. Dieser bildet die Grundlage für die Überprüfung durch die jeweils befugte Stelle. Die Zertifikate können einfach auf elektronischen Geräten (z.B. Smartphones) gespeichert werden. Um die Zertifikate digital abrufen zu können, ist eine Handysignatur oder Bürgerkarte notwendig, welche daher zeitgerecht beantragt werden sollten. Die Zertifikate können einerseits digital und andererseits analog (ausgedruckt) vorgezeigt werden.
 Der Grüne Pass besteht einerseits aus den bereits bestehenden Nachweisen und andererseits aus drei EU-konformen Zertifikaten, die eine einfache Überprüfung einer erhaltenen Corona-Schutzimpfung (Impfzertifikat), einer durchgemachten Infektion mit SARS-CoV-2 (Genesungszertifikat) oder eines negativen Testergebnisses (Testzertifikat) ermöglichen. Die drei Zertifikate können einzeln und unabhängig voneinander abgerufen und verwendet werden.
 
+## Architekturdiagramm
+
+![Architekturdiagramm](../Diagrams/Architecture/architecture.drawio.png)
+
+## Sequenzdiagramm
+
+![Sequenziagramm 1](../Diagrams/Sequences/Sequences_old.png)
+
+![Sequenziagramm 2](../Diagrams/Sequences/Sequences2_old.png)
+
+![Sequenziagramm 3](../Diagrams/Sequences/Sequences3_old.png)
+
 Die Daten, die für die Erstellung der oben genannten Zertifikate notwendig sind, werden als „minimal Dataset“ bezeichnet. Neben einem EU-konformen QR-Code sind im Testzertifikat folgende Daten enthalten:
 
 #### Inhalt Testzertifikat

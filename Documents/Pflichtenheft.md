@@ -7,7 +7,7 @@ Anforderungen:
 
 # Pflichtenheft
 
-*Gruppe Aigner, Wimmer, Scheiböck, Mayr und Asi-Aspöck*
+*Gruppe Aigner, Wimmer, Scheiböck, Mayr und Aspöck*
 
 ## Funktionsweise von unserem System
 
@@ -17,6 +17,8 @@ Im QR-Code ist dann nur noch der Token im [JWT-Format](https://jwt.io/) vorhande
 
 Für den Check ist zwingend eine Internetverbindung notwendig.
 Der Token im QR-Code und die lokalen Daten werden gecached und alle 24 Stunden neu über das Internet validiert.
+
+
 
 
 ## Umsetzungsschwierigkeiten / Schwachstellen
