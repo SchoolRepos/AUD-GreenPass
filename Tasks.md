@@ -8,7 +8,7 @@
 
 ## Elias: 
 
-- [ ] Analysedokument (QR-Code) -> Eventuell mehr Infos über Verifizierung der Codes
+- [x] Analysedokument (QR-Code) -> Eventuell mehr Infos über Verifizierung der Codes
 - [ ] Sequenzdiagramm
 - [ ] Pflichtenheft
 
