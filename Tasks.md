@@ -2,14 +2,14 @@
 
 ## Andreas: 
 
-- [ ] Analysedokument (Schwachstellen)
-- [ ] Sequenzdiagramm
+- [x] Analysedokument (Schwachstellen)
+- [x] Sequenzdiagramm
 - [ ] Pflichtenheft
 
 ## Elias: 
 
 - [x] Analysedokument (QR-Code) -> Eventuell mehr Infos über Verifizierung der Codes
-- [ ] Sequenzdiagramm
+- [x] Sequenzdiagramm
 - [ ] Pflichtenheft
 
 ## Tobias: 
