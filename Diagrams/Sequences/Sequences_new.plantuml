@@ -1,0 +1,20 @@
+@startuml
+!theme reddress-lightred
+
+actor User
+
+User -> GrünerPassApp: Qr Code
+GrünerPassApp -> GrünerPassApp: Scan Qr Code
+GrünerPassApp -> ElgaServer: Certificate
+ElgaServer -> ElgaServer: Validate Certificate
+
+alt successful case
+    ElgaServer --> GrünerPassApp: certificate valid
+    GrünerPassApp -> GrünerPassApp: add certificate
+    GrünerPassApp --> User: notify
+else unsuccessful case
+    ElgaServer --> GrünerPassApp: certificate invalid
+    GrünerPassApp --> User: notify
+end
+
+@enduml
