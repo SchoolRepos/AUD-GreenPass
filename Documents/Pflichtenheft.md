@@ -18,8 +18,7 @@ Im QR-Code ist dann nur noch der Token im [JWT-Format](https://jwt.io/) vorhande
 Für den Check ist zwingend eine Internetverbindung notwendig.
 Der Token im QR-Code und die lokalen Daten werden gecached und alle 24 Stunden neu über das Internet validiert.
 
-
-
+![AddCertificate](https://user-images.githubusercontent.com/71697714/161512649-542894a0-d803-4cb8-a8b2-48a6474c87d9.png)
 
 ## Umsetzungsschwierigkeiten / Schwachstellen
 
