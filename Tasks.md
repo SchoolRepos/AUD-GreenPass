@@ -4,27 +4,31 @@
 
 - [x] Analysedokument (Schwachstellen)
 - [x] Sequenzdiagramm
-- [ ] Pflichtenheft
+- [x] Pflichtenheft
+- [ ] Präsentation
 
 ## Elias: 
 
 - [x] Analysedokument (QR-Code) -> Eventuell mehr Infos über Verifizierung der Codes
 - [x] Sequenzdiagramm
-- [ ] Pflichtenheft
+- [x] Pflichtenheft
+- [ ] Präsentation
 
 ## Tobias: 
 
 - [x] Analysedokument (Schwachstellen)
 - [x] Architekturdiagramm
-- [ ] Pflichtenheft
+- [x] Pflichtenheft
+- [ ] Präsentation
 
 ## Klaus: 
 
 - [x] Analysedokument (QR-Code) -> Eventuell mehr Infos über Verifizierung der Codes
-- [ ] Pitch-Deck - wos is a Pitch-Deck?
+- [ ] Präsentation
 
 ## Sarah: 
 
 - [x] Analysedokument (Funktionsweise des aktuellen Systems)
-- [ ] Ideen für Verbesserung des Systems / Neuer Systemvorschlag -> Einfach in die Notes
-- [ ] Pflichtenheft
+- [x] Ideen für Verbesserung des Systems / Neuer Systemvorschlag -> Einfach in die Notes
+- [x] Pflichtenheft
+- [ ] Präsentation
