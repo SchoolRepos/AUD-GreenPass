@@ -5,30 +5,30 @@
 - [x] Analysedokument (Schwachstellen)
 - [x] Sequenzdiagramm
 - [x] Pflichtenheft
-- [ ] Präsentation
+- [x] Präsentation
 
 ## Elias: 
 
-- [x] Analysedokument (QR-Code) -> Eventuell mehr Infos über Verifizierung der Codes
+- [x] Analysedokument (QR-Code)
 - [x] Sequenzdiagramm
 - [x] Pflichtenheft
-- [ ] Präsentation
+- [x] Präsentation
 
 ## Tobias: 
 
 - [x] Analysedokument (Schwachstellen)
 - [x] Architekturdiagramm
 - [x] Pflichtenheft
-- [ ] Präsentation
+- [x] Präsentation
 
 ## Klaus: 
 
-- [x] Analysedokument (QR-Code) -> Eventuell mehr Infos über Verifizierung der Codes
-- [ ] Präsentation
+- [x] Analysedokument (ausführliche Analyse des QR-Codes) 
+- [x] Präsentation
 
 ## Sarah: 
 
 - [x] Analysedokument (Funktionsweise des aktuellen Systems)
 - [x] Ideen für Verbesserung des Systems / Neuer Systemvorschlag -> Einfach in die Notes
 - [x] Pflichtenheft
-- [ ] Präsentation
+- [x] Präsentation
