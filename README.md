@@ -13,7 +13,6 @@ This repository is part of a school group work on an in depth analysis of the ap
   * [`Pflichtenheft`](Documents/Pflichtenheft.md) - Possible solution to create a new / better system
 * [`Angabe`](Angabe.pdf) - Specification and instructions for this school assignment
 * [`Tasks`](Tasks.md) - List for current tasks of the team
-
-As of now we won't upload the presentation onto this repository as it contains sensitive data which shall remain private.
+* [`Pitch-Deck Powerpoint`](Green-Pass_final.pptx) - Final presentation - some slides were removed/modified for privacy reasons
 
 **Disclaimer: Any resources found within this repository are created for educational purposes only and therefore shall not be used to take advantage of any given exploits / bugs mentioned. We assume no liability for any information given.**
