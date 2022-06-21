@@ -1,6 +1,6 @@
 # AUD-GreenPass Group Work
 
-*Group - Aigner, Wimmer, Scheiböck, Mayr und Aspöck*
+*Group - Aigner, Wimmer, Scheiböck, Mayr and Aspöck*
 
 This repository is part of a school group work on an in depth analysis of the apps [Grüner Pass](https://gruenerpass.gv.at/) and [GreenCheck](https://greencheck.gv.at/) run by the Government of Austria. Goal of the assignment is to present the flaws in the current system and come up with an idea for an optimized version.
 
